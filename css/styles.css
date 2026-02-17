@@ -1,3 +1,11 @@
-ul{
-    list-style: none;
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    background-color: #fff;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Raleway", sans-serif;
+}
+ul, ol{
+    list-style-type: none;
 }
